@@ -7,8 +7,8 @@ Lets show you around my profile for a moment!
 - [STVRadio](https://github.com/SSP6904/STVRadio)
 - [VGAPainter](https://github.com/SSP6904/VGAPainter)
 
-# Organizations
-I have some Organizations that I am an owner of too!
+## Organizations
+![TTNRT](https://avatars.githubusercontent.com/u/103219889?s=200&v=4)
 ## Repos
 - [Status Pages](https://github.com/TTNRT/StatusPage)
 - [Discussions](https://github.com/orgs/TTNRT/discussions)
