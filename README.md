@@ -16,7 +16,7 @@ Lets show you around my profile for a moment!
 - [Docs](https://github.com/TTNRT/docs)
 
 ### Socials
-- [Discord](https://discord.gg/ghcf3M5Xnq)
+- [Discord](https://discord.gg/rkpFK9r84w)
 - [Youtube](https://www.youtube.com/@SSP6904)
 - [Reddit](https://www.reddit.com/user/Agile_Professional83)
 - [Steam](https://steamcommunity.com/profiles/76561199164190916/)
