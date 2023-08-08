@@ -10,7 +10,7 @@ Lets show you around my profile for a moment!
 ### Organizations
 ![TTNRT](https://avatars.githubusercontent.com/u/103219889?s=200&v=4)
 
-### Repos
+#### Repos
 - [Status Pages](https://github.com/TTNRT/StatusPage)
 - [Discussions](https://forums.ttnrtsite.me/)
 - [Docs](https://github.com/TTNRT/docs)
