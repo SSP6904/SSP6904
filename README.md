@@ -11,9 +11,9 @@ Lets show you around my profile for a moment!
 ![TTNRT](https://avatars.githubusercontent.com/u/103219889?s=200&v=4)
 
 #### Repos
-- [Status Pages](https://github.com/TTNRT/StatusPage)
-- [Discussions](https://forums.ttnrtsite.me/)
-- [Docs](https://github.com/TTNRT/docs)
+- [Status](https://github.com/TTNRT/status-code)
+- [Discussions](https://github.com/orgs/TTNRT/discussions)
+- [Blog](https://github.com/TTNRT/blog)
 
 ### Socials
 - [Discord](https://discord.gg/rkpFK9r84w)
