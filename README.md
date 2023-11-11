@@ -17,13 +17,13 @@ Lets show you around my profile for a moment!
 - [Blog](https://github.com/TTNRT/blog)
 
 ### Socials
-- <img src="https://icons.getbootstrap.com/assets/icons/discord.svg" /> [Discord](https://discord.gg/rkpFK9r84w)
-- <img src="https://icons.getbootstrap.com/assets/icons/youtube.svg" /> [YouTube](https://www.youtube.com/@SSP6904)
-- <a href="https://www.reddit.com/user/Agile_Professional83"><img src="https://icons.getbootstrap.com/assets/icons/reddit.svg" />Reddit</a>
-- <a href="https://steamcommunity.com/profiles/76561199164190916/"><img src="https://icons.getbootstrap.com/assets/icons/steam.svg" />Steam</a>
-- <a href="https://www.instagram.com/shau.n4028/?hl=en"><img src="https://icons.getbootstrap.com/assets/icons/instagram.svg" />Instagram</a>
+- [Discord](https://discord.gg/rkpFK9r84w)
+- [YouTube](https://www.youtube.com/@SSP6904)
+- [Reddit](https://www.reddit.com/user/Agile_Professional83)
+- [Steam](https://steamcommunity.com/profiles/76561199164190916)
+- [Instagram](https://www.instagram.com/shau.n4028)
 - [Carrd](https://ssp6904.carrd.co/)
-- <a href="https://ssp6904.github.io/"><img src="https://icons.getbootstrap.com/assets/icons/cloud-fill.svg" />Website</a>
+- [Website](https://ssp6904.github.io/)
 
 
 ### Stats
