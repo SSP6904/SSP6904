@@ -24,6 +24,7 @@ Lets show you around my profile for a moment!
 - [Instagram](https://www.instagram.com/shau.n4028)
 - [Carrd](https://ssp6904.carrd.co/)
 - [Website](https://ssp6904.github.io/)
+- [Profile](https://profile.shaunhoffer.cc/)
 
 
 ### Stats
@@ -37,3 +38,12 @@ Lets show you around my profile for a moment!
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![Ubuntu](https://img.shields.io/badge/ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=orange&color=black)
+
+![Debian](https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred)
+
+![Android](https://img.shields.io/badge/android-green?style=for-the-badge&logo=android&logoColor=green&color=darkgreen)
+
+![Apple](https://img.shields.io/badge/apple-darkgrey?style=for-the-badge&logo=apple&logoColor=grey&color=darkgrey)
+
