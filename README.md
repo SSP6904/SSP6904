@@ -47,3 +47,14 @@ Lets show you around my profile for a moment!
 
 ![Apple](https://img.shields.io/badge/apple-darkgrey?style=for-the-badge&logo=apple&logoColor=grey&color=darkgrey)
 
+### Languages
+
+![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=black&color=lightgrey)
+
+![PHP](https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=white&color=purple)
+
+![NodeJS](https://img.shields.io/badge/nodedotjs-lightgreen?style=for-the-badge&logo=nodedotjs&logoColor=white&color=green)
+
+![Javascript](https://img.shields.io/badge/javascript-orange?style=for-the-badge&logo=javascript&logoColor=white&color=orange)
+
+![Ruby](https://img.shields.io/badge/ruby-red?style=for-the-badge&logo=ruby&logoColor=white&color=red)
