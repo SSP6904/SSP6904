@@ -1,22 +1,9 @@
 # SSP6904
 
-You must be new to my profie, right?
-
-Lets show you around my profile for a moment!
-
-### Repos
-- [STVRadio](https://github.com/SSP6904/STVRadio)
-- [VGAPainter](https://github.com/SSP6904/VGAPainter)
-
-### Organizations
+## Organizations
 ![TTNRT](https://cdn.ttnrtsite.me/images/logo.png)
 
-#### Repos
-- [Status](https://github.com/TTNRT/status-code)
-- [Discussions](https://github.com/orgs/TTNRT/discussions)
-- [Blog](https://github.com/TTNRT/blog)
-
-### Socials
+## Socials
 - [Discord](https://discord.gg/rkpFK9r84w)
 - [YouTube](https://www.youtube.com/@SSP6904)
 - [Reddit](https://www.reddit.com/user/Agile_Professional83)
@@ -27,12 +14,13 @@ Lets show you around my profile for a moment!
 - [Profile](https://profile.shaunhoffer.cc/)
 
 
-### Stats
-[![Stats1](https://github-readme-stats.vercel.app/api?username=SSP6904&show_icons=true)](https://github.com/SSP6904/) <br />
+## Stats
+<!-- Only for GitHub! -->
+[![Stats1](https://github-readme-stats.vercel.app/api?username=SSP6904&show_icons=true)](https://github.com/SSP6904/)
 
 [![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=SSP6904&layout=compact)](https://github.com/SSP6904)
 
-### Operating Systems
+## Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
@@ -47,8 +35,7 @@ Lets show you around my profile for a moment!
 
 ![Apple](https://img.shields.io/badge/apple-darkgrey?style=for-the-badge&logo=apple&logoColor=grey&color=darkgrey)
 
-### Languages
-
+## Languages
 ![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=black&color=lightgrey)
 
 ![PHP](https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=white&color=purple)
