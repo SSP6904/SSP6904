@@ -4,14 +4,13 @@
 ![TTNRT](https://cdn.ttnrtsite.me/images/logo.png)
 
 ## Socials
-- [Discord](https://discord.gg/rkpFK9r84w)
-- [YouTube](https://www.youtube.com/@SSP6904)
-- [Reddit](https://www.reddit.com/user/Agile_Professional83)
-- [Steam](https://steamcommunity.com/profiles/76561199164190916)
-- [Instagram](https://www.instagram.com/shau.n4028)
+- [Discord](https://shaunhoffer.cc/discord)
+- [YouTube](https://shaunhoffer.cc/youtube)
+- [Reddit](https://shaunhoffer.cc/reddit)
+- [Steam](https://shaunhoffer.cc/steam)
+- [Instagram](https://shaunhoffer.cc/instagram)
 - [Carrd](https://ssp6904.carrd.co/)
-- [Website](https://ssp6904.github.io/)
-- [Profile](https://profile.shaunhoffer.cc/)
+- [Website](https://shaunhoffer.cc/)
 
 
 ## Stats
