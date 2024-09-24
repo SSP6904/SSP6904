@@ -1,17 +1,5 @@
 # SSP6904
-
-## Organizations
-![TTNRT](https://cdn.ttnrtsite.me/images/logo.png)
-
-## Socials
-- [Discord](https://shaunhoffer.cc/discord)
-- [YouTube](https://shaunhoffer.cc/youtube)
-- [Reddit](https://shaunhoffer.cc/reddit)
-- [Steam](https://shaunhoffer.cc/steam)
-- [Instagram](https://shaunhoffer.cc/instagram)
-- [Carrd](https://ssp6904.carrd.co/)
-- [Website](https://shaunhoffer.cc/)
-
+Hi there! Welcome to my GitHub! :smile:
 
 ## Stats
 <!-- Only for GitHub! -->
