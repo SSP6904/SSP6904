@@ -30,5 +30,15 @@ Hi there! Welcome to my GitHub! :smile:
 ![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-lightblue?style=for-the-badge&logo=tailwindcss&logoColor=black)
 
+## Links and contact information
+### Websites
+- [Personal website](https://shaunhoffer.cc)
+- [Company website](https://ttnrtsite.me)
 
+### Profiles
+- [myTT profile](https://my.ttnrtsite.me/user/1)
+- [TTGit profile](https://git.ttnrtsite.me/ssp6904)
 
+### Emails
+- [Personal](mailto:hoffershaun842@gmail.com)
+- [Company](mailto:shoffer@ttnrtsite.me)
