@@ -1,36 +1,29 @@
-# SSP6904
-Hi there! Welcome to my GitHub! :smile:
+Hello there! Welcome to my GitHub profile page! Nice to meet you! :smile:
 
-## Stats
-<!-- Only for GitHub! -->
-[![Stats1](https://github-readme-stats.vercel.app/api?username=SSP6904&show_icons=true)](https://github.com/SSP6904/)
-[![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=SSP6904&layout=compact)](https://github.com/SSP6904)
+I'm a developer here and has some of my projects I create uploaded here. 
 
-## Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=orange&color=black)
-![Debian](https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred)
-![Android](https://img.shields.io/badge/android-green?style=for-the-badge&logo=android&logoColor=green&color=darkgreen)
-![Apple](https://img.shields.io/badge/apple-darkgrey?style=for-the-badge&logo=apple&logoColor=grey&color=darkgrey)
+## Skills I have with
+Below is what I have skills with, along some operating systems and coding languages. :computer:
 
-## Languages
-![HTML5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=html5&logoColor=black&color=lightgrey)
-![PHP](https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=white&color=purple)
-![NodeJS](https://img.shields.io/badge/nodedotjs-lightgreen?style=for-the-badge&logo=nodedotjs&logoColor=white&color=green)
-![Javascript](https://img.shields.io/badge/javascript-orange?style=for-the-badge&logo=javascript&logoColor=white&color=orange)
-![Ruby](https://img.shields.io/badge/ruby-red?style=for-the-badge&logo=ruby&logoColor=white&color=red)
-![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&color=blue)
-![C++](https://img.shields.io/badge/c%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&color=blue)
-![GoLang](https://img.shields.io/badge/go-green?style=for-the-badge&logo=go&logoColor=black&color=lightblue)
-![Python](https://img.shields.io/badge/python-red?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/react-lightblue?style=for-the-badge&logo=react&logoColor=black)
-![Astro](https://img.shields.io/badge/astro-purple?style=for-the-badge&logo=astro&logoColor=white)
-![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwindcss-lightblue?style=for-the-badge&logo=tailwindcss&logoColor=black)
+|Name          |Type            |
+|--------------|----------------|
+|Linux         |Operating System|
+|Arch          |Operating System|
+|Windows       |Operating System|
+|Ubuntu        |Operating System|
+|Debian        |Operating System|
+|Android       |Operating System|
+|Apple         |Operating System|
+|HTML5         |Language        |
+|PHP           |Language        |
+|NodeJS        |Language        |
+|Javascript    |Language        |
+|Ruby          |Language        |
+|C             |Language        |
+|.NET Framework|Language        |
 
 ## Links and contact information
+Want to get in touch with me? Not a problem! Check the links below to find out! :wink:
 ### Websites
 - [Personal website](https://shaunhoffer.cc)
 - [Company website](https://ttnrtsite.me)
@@ -42,3 +35,9 @@ Hi there! Welcome to my GitHub! :smile:
 ### Emails
 - [Personal](mailto:hoffershaun842@gmail.com)
 - [Company](mailto:shoffer@ttnrtsite.me)
+
+## Stats
+Below are my GitHub statistics for my top used languages and other stuff I do here. :chart_with_upwards_trend:
+<!-- Only for GitHub! -->
+[![Stats1](https://github-readme-stats.vercel.app/api?username=SSP6904&show_icons=true)](https://github.com/SSP6904/)
+[![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=SSP6904&layout=compact)](https://github.com/SSP6904)
