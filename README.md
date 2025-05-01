@@ -1,6 +1,6 @@
 Hello there! Welcome to my GitHub profile page! Nice to meet you! :smile:
 
-I'm a developer here and has some of my projects I create uploaded here. 
+I'm a developer here and has some of my projects I create uploaded here. I also run a developer-based company named [TTNRT Corporation](https://ttnrtsite.me) and have been operating it from 2020 till now! If you want to learn more about me, check out my personal website I have listed here! :smile:
 
 ## Skills I have with
 Below is what I have skills with, along some operating systems and coding languages. :computer:
