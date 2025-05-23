@@ -41,3 +41,4 @@ Below are my GitHub statistics for my top used languages and other stuff I do he
 <!-- Only for GitHub! -->
 [![Stats1](https://github-readme-stats.vercel.app/api?username=SSP6904&show_icons=true)](https://github.com/SSP6904/)
 [![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=SSP6904&layout=compact)](https://github.com/SSP6904)
+[![roadmap.sh](https://roadmap.sh/card/tall/6830c2bfcf080f2a3285320d?variant=dark)](https://roadmap.sh)
