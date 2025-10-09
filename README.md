@@ -29,10 +29,6 @@ Want to get in touch with me? Not a problem! Check the links below to find out! 
 - [Company website](https://ttnrtsite.me)
   - [Backup domain](https://ttweb.ttnrtsite.me)
 
-### Profiles
-- [myTT profile](https://my.ttnrtsite.me/user/1)
-- [TTGit profile](https://git.ttnrtsite.me/ssp6904)
-
 ### Emails
 - [Personal](mailto:hoffershaun842@gmail.com)
 - [Company](mailto:shoffer@ttnrtsite.me)
