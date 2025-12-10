@@ -36,6 +36,5 @@ Want to get in touch with me? Not a problem! Check the links below to find out! 
 ## Public statistics
 Below are my GitHub statistics for my top used languages and other stuff that I do here. :chart_with_upwards_trend:
 <!-- Only for GitHub! -->
-[![Stats1](https://github-readme-stats.vercel.app/api?username=SSP6904&show_icons=true)](https://github.com/SSP6904/)
-[![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=SSP6904&layout=compact)](https://github.com/SSP6904)
+[![Profile stats](https://githubcard.com/SSP6904.svg?d=Kr06FA1n)](https://github.com/SSP6904/)
 [![roadmap.sh](https://roadmap.sh/card/tall/6830c2bfcf080f2a3285320d?variant=dark)](https://roadmap.sh)
