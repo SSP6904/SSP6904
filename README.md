@@ -20,21 +20,18 @@ Below is what I have skills with, along some operating systems and coding langua
 |Javascript    |Language        |`true`  |
 |Ruby          |Language        |`false` |
 |C             |Language        |`true`  |
-|.NET Framework|Language        |`null`  |
+|.NET Framework|Language        |`true`  |
+
 
 ## Links and contact information
 Want to get in touch with me? Not a problem! Check the links below to find out! :wink:
-### Websites
-- [Personal website](https://shaunhoffer.cc)
-- [Company website](https://ttnrtsite.me)
+- [Personal website]
+- [Company website]
   - [Backup domain](https://backup.ttnrtsite.me)
+- [Personal email]
+- [Company email]
 
-### Emails
-- [Personal](mailto:hoffershaun842@gmail.com)
-- [Company](mailto:shoffer@ttnrtsite.me)
-
-## Public statistics
-Below are my GitHub statistics for my top used languages and other stuff that I do here. :chart_with_upwards_trend:
-<!-- Only for GitHub! -->
-[![Profile stats](https://githubcard.com/SSP6904.svg?d=Kr06FA1n)](https://github.com/SSP6904/)
-[![roadmap.sh](https://roadmap.sh/card/tall/6830c2bfcf080f2a3285320d?variant=dark)](https://roadmap.sh)
+[Personal website]: https://shaunhoffer.cc
+[Company website]: https://ttnrtsite.me
+[Personal email]: mailto:hoffershaun842@gmail.com
+[Company email]: mailto:shoffer@ttnrtsite.me
