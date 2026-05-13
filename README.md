@@ -21,6 +21,8 @@ Below is what I have skills with, along some operating systems and coding langua
 |Ruby          |Language        |`false` |
 |C             |Language        |`true`  |
 |.NET Framework|Language        |`true`  |
+|C#            |Language        |`true`  |
+|C++           |Language        |`true`  |
 
 
 ## Links and contact information
