@@ -31,9 +31,7 @@ Want to get in touch with me? Not a problem! Check the links below to find out! 
 - [Company website]
   - [Backup domain](https://backup.ttnrtsite.me)
 - [Personal email]
-- [Company email]
 
 [Personal website]: https://shaunhoffer.cc
 [Company website]: https://ttnrtsite.me
 [Personal email]: mailto:hoffershaun842@gmail.com
-[Company email]: mailto:shoffer@ttnrtsite.me
