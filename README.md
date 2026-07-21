@@ -23,7 +23,7 @@ Below is what I have skills with, along some operating systems and coding langua
 |.NET Framework|Language        |`true`  |
 |C#            |Language        |`true`  |
 |C++           |Language        |`true`  |
-
+|Python        |Language        |`true`  |
 
 ## Links and contact information
 Want to get in touch with me? Not a problem! Check the links below to find out! :wink:
